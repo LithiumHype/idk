@@ -1,0 +1,19 @@
+.contents_c19a55 .messageContent_c19a55, .container_b7e1cb {
+  background-color: var(--darkplus-bg2);
+  display: inline-block;
+  max-width: 650px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0;
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.messageContent_c19a55:empty {
+  display: none !important;
+}
+
+.chatContent_f75fb0 {
+	max-width: calc(100% - 60px);
+}
